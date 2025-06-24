@@ -32,9 +32,9 @@
   <summary><h2> <img align="center" src="https://github.com/[dennissegailfrancisco]/[dennissegailfrancisco]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
     <img src = "https://github-readme-stats.vercel.app/api?username=[dennissegailfrancisco]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)"/> <br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=[dennissegailfrancisco]&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[dennissegailfrancisco]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=[dennissegailfrancisco]&theme=tokyo-night)
+     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=dennissegailfrancisco&theme=tokyonight&hide_border=false)" /> <br/>
+     <img src = "(https://github-readme-stats.vercel.app/api/top-langs/?username=dennissegailfrancisco&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)" /> <br/>
+     <img src = " (https://github-readme-activity-graph.vercel.app/graph?username=dennissegailfrancisco&theme=tokyo-night)" />
   </div>
 </details>
 <div align="center">
