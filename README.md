@@ -33,16 +33,16 @@
     <img align="center" src="https://github.com/dennissegailfrancisco/dennissegailfrancisco/blob/main/icons/stats.gif" width="32"/> Stats
   </h2>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dennissegailfrancisco&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dennissegailfrancisco&theme=tokyo-night" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dennissegailfrancisco&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennissegailfrancisco&theme=tokyonight&hide_border=false&layout=compact" /> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dennissegailfrancisco&theme=tokyonight&hide_border=false" /> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennissegailfrancisco&theme=tokyonight&hide_border=false&layout=compact" /> <br/>
-
+<br/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=dennissegailfrancisco&theme=tokyo-night" />
   </div>
 
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app?username=dennissegailfrancisco&theme=tokyo-night&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=dennissegailfrancisco&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ## Top Projects
