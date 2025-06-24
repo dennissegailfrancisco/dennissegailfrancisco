@@ -45,6 +45,12 @@
   <img src="https://github-profile-trophy.vercel.app?username=dennissegailfrancisco&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+## Top Projects
+
+[![PesoWise](https://github-readme-stats.vercel.app/api/pin/?username=dennissegailfrancisco&repo=PesoWise&theme=dark)](https://github.com/dennissegailfrancisco/PesoWise)
+[![momentum](https://github-readme-stats.vercel.app/api/pin/?username=dennissegailfrancisco&repo=momentum&theme=dark)](https://github.com/dennissegailfrancisco/momentum)
+[![Bulak-Smart-Connect](https://github-readme-stats.vercel.app/api/pin/?username=dennissegailfrancisco&repo=Bulak-Smart-Connect&theme=dark)](https://github.com/dennissegailfrancisco/Bulak-Smart-Connect)
+
 
  
 
