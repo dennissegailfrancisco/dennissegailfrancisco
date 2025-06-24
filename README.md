@@ -41,7 +41,7 @@
  ### Leetcode
   <div align="center">
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/dennisseegailfrancisco?theme=auto&font=baloo&extension=null)
+  ![LeetCode Stats](https://leetcode.card.workers.dev/dennissegailfrancisco?theme=auto&font=baloo&extension=null)
 
   </div>
 
