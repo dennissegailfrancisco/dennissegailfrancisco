@@ -50,7 +50,7 @@
   <div align="center">
 
   ![LeetCode Stats](https://leetcode.card.workers.dev/dennissegailfrancisco?theme=auto&font=baloo&extension=null)
-  <img src="https://raw.githubusercontent.com/dennissegailfrancisco/dennissegailfrancisco/output/snake.svg" alt="Snake animation" />
+
 
 
   </div>
@@ -58,7 +58,7 @@
   ### Codeforces
   <div align="center">
 
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=dennisseegailfrancisco)
+<img src="https://raw.githubusercontent.com/dennissegailfrancisco/dennissegailfrancisco/output/snake.svg" alt="Snake animation" />
 
   </div>
 
